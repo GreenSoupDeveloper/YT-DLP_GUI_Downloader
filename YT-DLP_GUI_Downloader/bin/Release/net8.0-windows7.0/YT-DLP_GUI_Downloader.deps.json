@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "YT-DLP_GUI_Downloader/1.0.0": {
+        "runtime": {
+          "YT-DLP_GUI_Downloader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YT-DLP_GUI_Downloader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

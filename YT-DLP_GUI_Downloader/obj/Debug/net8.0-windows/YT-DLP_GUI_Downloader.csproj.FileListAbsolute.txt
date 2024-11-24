@@ -1,0 +1,16 @@
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\bin\Debug\net8.0-windows\YT-DLP_GUI_Downloader.exe
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\bin\Debug\net8.0-windows\YT-DLP_GUI_Downloader.deps.json
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\bin\Debug\net8.0-windows\YT-DLP_GUI_Downloader.runtimeconfig.json
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\bin\Debug\net8.0-windows\YT-DLP_GUI_Downloader.dll
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\bin\Debug\net8.0-windows\YT-DLP_GUI_Downloader.pdb
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net8.0-windows\YT_DLP_GUI_Downloader.Form1.resources
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net8.0-windows\YT-DLP_GUI_Downloader.csproj.GenerateResource.cache
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net8.0-windows\YT-DLP_GUI_Downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net8.0-windows\YT-DLP_GUI_Downloader.AssemblyInfoInputs.cache
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net8.0-windows\YT-DLP_GUI_Downloader.AssemblyInfo.cs
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net8.0-windows\YT-DLP_GUI_Downloader.csproj.CoreCompileInputs.cache
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net8.0-windows\YT-DLP_GUI_Downloader.dll
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net8.0-windows\refint\YT-DLP_GUI_Downloader.dll
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net8.0-windows\YT-DLP_GUI_Downloader.pdb
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net8.0-windows\YT-DLP_GUI_Downloader.genruntimeconfig.cache
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net8.0-windows\ref\YT-DLP_GUI_Downloader.dll

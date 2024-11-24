@@ -1,0 +1,6 @@
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net5.0-windows7.0\YT_DLP_GUI_Downloader.Form1.resources
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net5.0-windows7.0\YT-DLP_GUI_Downloader.csproj.GenerateResource.cache
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net5.0-windows7.0\YT-DLP_GUI_Downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net5.0-windows7.0\YT-DLP_GUI_Downloader.AssemblyInfoInputs.cache
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net5.0-windows7.0\YT-DLP_GUI_Downloader.AssemblyInfo.cs
+C:\Users\GreenSoupDev\source\repos\YT-DLP_GUI_Downloader\YT-DLP_GUI_Downloader\obj\Debug\net5.0-windows7.0\YT-DLP_GUI_Downloader.csproj.CoreCompileInputs.cache
