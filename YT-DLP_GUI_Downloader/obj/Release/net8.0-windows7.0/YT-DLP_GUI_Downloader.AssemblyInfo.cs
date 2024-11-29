@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YT-DLP_GUI_Downloader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49e131ea05e02449480535db8cda55312e586dd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("YT-DLP_GUI_Downloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YT-DLP_GUI_Downloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,12 +12,14 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\GreenSoupDev\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\GreenSoupDev\\.nuget\\packages"
+      "C:\\Users\\green\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\green\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
       "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
+      "CSWINRT_USE_WINDOWS_UI_XAML_PROJECTIONS": false,
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
     }
   }

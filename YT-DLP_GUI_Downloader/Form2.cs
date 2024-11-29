@@ -33,14 +33,16 @@ namespace YT_DLP_GUI_Downloader
         }
         private void Completed(object sender, AsyncCompletedEventArgs e)
         {
+            this.Close();
         }
 
         private void ffmpegdown(object sender, EventArgs e) {
             label1.Text = "Downloading ffmpeg..";
             string filepath = "tools/ffmpeg.exe";
             WebClient web = new WebClient();
+            web.DownloadFileCompleted += new AsyncCompletedEventHandler(Completed);
             web.DownloadProgressChanged += new DownloadProgressChangedEventHandler(ProgressChanged);
-            web.DownloadFileAsync(new Uri("https://download1532.mediafire.com/z12ghyri0bagnCOz2WT5oqVeq2Asm49j4b8gtjvr90ZoshX3JlHqzKQ1KKc_PuZGKP0pG-yhNHj5h8GFw5gX3BuKkLs9X5se4GYtQGYiUxitLLyca9gBDRyBb8p9feJL11NmwLUeZ1w-JyXLigQtud7CNsFzV1L7QFrnz6kAnfnOYA/p3pq1sheru7k78x/ffmpeg.exe"), filepath);
+            web.DownloadFileAsync(new Uri("https://huggingface.co/GreenSoupDev/storage1/resolve/main/ffmpeg.exe"), filepath);
         }
 
         private void label1_Click(object sender, EventArgs e)
